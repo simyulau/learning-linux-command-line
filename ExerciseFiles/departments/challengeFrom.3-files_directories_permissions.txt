@@ -1,0 +1,3 @@
+mv does 1) move and 2) rename
+linux has no file types, those .txt just part of filename
+Beware of using > , it's to overwrite, 2nd time echo needs >> append to file
