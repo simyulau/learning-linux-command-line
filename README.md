@@ -1,6 +1,5 @@
 # Learning Linux Command Line
 
-Self note: 
 Explored and practiced the use of:  
 touch, echo, grep -E, head/tail (-n indicate number of line to display) (-i case insensitive) (-v inverted matching), cat (-n numbering lines), ls (-l long list) (-r recurive), chmod (in octal and symbolic notation), sudo, chown, cp ver1 ver2, mv oldfile newfile (renaming), mv file destination path, mkdir (-p create parent and a subfolder when included in path)
 
