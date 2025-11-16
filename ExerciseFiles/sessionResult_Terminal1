@@ -1,0 +1,247 @@
+Script started on 2025-11-16 08:22:04+00:00 [TERM="xterm-256color" TTY="/dev/pts/1" COLUMNS="137" LINES="33"]
+[?2004h$ less poems.txt
+[?2004l[?1049h[22;0;0t[?1h=Percy Shelley
+
+Ozymandias
+
+I met a traveller from an antique land
+Who said: Two vast and trunkless legs of stone
+Stand in the desert. Near them on the sand,
+Half sunk, a shatter'd visage lies, whose frown
+And wrinkled lip and sneer of cold command
+Tell that its sculptor well those passions read
+Which yet survive, stamp'd on these lifeless things,
+The hand that mock'd them and the heart that fed.
+And on the pedestal these words appear:
+"My name is Ozymandias, king of kings:
+Look on my works, ye Mighty, and despair!"
+Nothing beside remains: round the decay
+Of that colossal wreck, boundless and bare,
+The lone and level sands stretch far away. 
+
+~ ~ ~ 
+
+William Blake
+
+The Tyger
+
+
+Tyger Tyger, burning bright, 
+In the forests of the night; 
+What immortal hand or eye, 
+Could frame thy fearful symmetry?
+
+In what distant deeps or skies. 
+[7mpoems.txt[27m[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KBB[KBurnt the fire of thine eyes?
+:[K[K [KESCESC[KOO[KAA[K[HMPercy Shelley
+[33;1H[K:[K[K [KESCESC[KOO[KDD[H[2J[H[H[2J[HPercy Shelley
+
+Ozymandias
+
+I met a traveller from an antique land
+Who said: Two vast and trunkless legs of stone
+Stand in the desert. Near them on the sand,
+Half sunk, a shatter'd visage lies, whose frown
+And wrinkled lip and sneer of cold command
+Tell that its sculptor well those passions read
+Which yet survive, stamp'd on these lifeless things,
+The hand that mock'd them and the heart that fed.
+And on the pedestal these words appear:
+"My name is Ozymandias, king of kings:
+Look on my works, ye Mighty, and despair!"
+Nothing beside remains: round the decay
+Of that colossal wreck, boundless and bare,
+The lone and level sands stretch far away. 
+
+~ ~ ~ 
+
+William Blake
+
+The Tyger
+
+
+Tyger Tyger, burning bright, 
+In the forests of the night; 
+What immortal hand or eye, 
+Could frame thy fearful symmetry?
+
+In what distant deeps or skies. 
+:[K[K[?1l>[?1049l[23;0;0t[?2004h$ cat poems.txt
+[?2004lPercy Shelley
+
+Ozymandias
+
+I met a traveller from an antique land
+Who said: Two vast and trunkless legs of stone
+Stand in the desert. Near them on the sand,
+Half sunk, a shatter'd visage lies, whose frown
+And wrinkled lip and sneer of cold command
+Tell that its sculptor well those passions read
+Which yet survive, stamp'd on these lifeless things,
+The hand that mock'd them and the heart that fed.
+And on the pedestal these words appear:
+"My name is Ozymandias, king of kings:
+Look on my works, ye Mighty, and despair!"
+Nothing beside remains: round the decay
+Of that colossal wreck, boundless and bare,
+The lone and level sands stretch far away. 
+
+~ ~ ~ 
+
+William Blake
+
+The Tyger
+
+
+Tyger Tyger, burning bright, 
+In the forests of the night; 
+What immortal hand or eye, 
+Could frame thy fearful symmetry?
+
+In what distant deeps or skies. 
+Burnt the fire of thine eyes?
+On what wings dare he aspire?
+What the hand, dare seize the fire?
+
+And what shoulder, & what art,
+Could twist the sinews of thy heart?
+And when thy heart began to beat,
+What dread hand? & what dread feet?
+
+What the hammer? what the chain, 
+In what furnace was thy brain?
+What the anvil? what dread grasp, 
+Dare its deadly terrors clasp! 
+
+When the stars threw down their spears 
+And water'd heaven with their tears: 
+Did he smile his work to see?
+Did he who made the Lamb make thee?
+
+Tyger Tyger burning bright, 
+In the forests of the night: 
+What immortal hand or eye,
+Dare frame thy fearful symmetry?
+[?2004h$ 
+[?2004l[?2004h$ q[Kclear[K[Kr[Kar
+[?2004l[H[2J[3J[?2004h$ head poems.txt
+[?2004lPercy Shelley
+
+Ozymandias
+
+I met a traveller from an antique land
+Who said: Two vast and trunkless legs of stone
+Stand in the desert. Near them on the sand,
+Half sunk, a shatter'd visage lies, whose frown
+And wrinkled lip and sneer of cold command
+Tell that its sculptor well those passions read
+[?2004h$ head poems.txt[Kt | cat -n
+[?2004l     1	Percy Shelley
+     2	
+     3	Ozymandias
+     4	
+     5	I met a traveller from an antique land
+     6	Who said: Two vast and trunkless legs of stone
+     7	Stand in the desert. Near them on the sand,
+     8	Half sunk, a shatter'd visage lies, whose frown
+     9	And wrinkled lip and sneer of cold command
+    10	Tell that its sculptor well those passions read
+[?2004h$ head -n1[K1 poems.txt | cat -n
+[?2004l     1	Percy Shelley
+[?2004h$ head -n2 poems.txt | cat
+[?2004lPercy Shelley
+
+[?2004h$ ls 
+[?2004lcommands.md  [0m[34;42mdepartments[0m  dupes.txt  [01;31mlog.tar.gz[0m  poems.txt  sessionResult_Terminal1  simple_data.txt  test.sh
+[?2004h$ pwd
+[?2004l/workspaces/learning-linux-command-line/ExerciseFiles
+[?2004h$ tail -3 poems/txt[K[K[K[K.x[Ktxt
+[?2004lIn the forests of the night: 
+What immortal hand or eye,
+Dare frame thy fearful symmetry?
+[?2004h$ tail poems.txt
+[?2004l
+When the stars threw down their spears 
+And water'd heaven with their tears: 
+Did he smile his work to see?
+Did he who made the Lamb make thee?
+
+Tyger Tyger burning bright, 
+In the forests of the night: 
+What immortal hand or eye,
+Dare frame thy fearful symmetry?
+[?2004h$ tail -n3 poems.txt
+[?2004lIn the forests of the night: 
+What immortal hand or eye,
+Dare frame thy fearful symmetry?
+[?2004h$ cat -n poems.txt | head -4 | wc
+[?2004l      4       7      55
+[?2004h$ grep "the" poems.txt
+[?2004lStand in [01;31m[Kthe[m[K desert. Near [01;31m[Kthe[m[Km on [01;31m[Kthe[m[K sand,
+Which yet survive, stamp'd on [01;31m[Kthe[m[Kse lifeless things,
+The hand that mock'd [01;31m[Kthe[m[Km and [01;31m[Kthe[m[K heart that fed.
+And on [01;31m[Kthe[m[K pedestal [01;31m[Kthe[m[Kse words appear:
+Nothing beside remains: round [01;31m[Kthe[m[K decay
+In [01;31m[Kthe[m[K forests of [01;31m[Kthe[m[K night; 
+Burnt [01;31m[Kthe[m[K fire of thine eyes?
+What [01;31m[Kthe[m[K hand, dare seize [01;31m[Kthe[m[K fire?
+Could twist [01;31m[Kthe[m[K sinews of thy heart?
+What [01;31m[Kthe[m[K hammer? what [01;31m[Kthe[m[K chain, 
+What [01;31m[Kthe[m[K anvil? what dread grasp, 
+When [01;31m[Kthe[m[K stars threw down [01;31m[Kthe[m[Kir spears 
+And water'd heaven with [01;31m[Kthe[m[Kir tears: 
+Did he who made [01;31m[Kthe[m[K Lamb make [01;31m[Kthe[m[Ke?
+In [01;31m[Kthe[m[K forests of [01;31m[Kthe[m[K night: 
+[?2004h$ grep -n "of" poems/[K.txt
+[?2004l[32m[K6[m[K[36m[K:[m[KWho said: Two vast and trunkless legs [01;31m[Kof[m[K stone
+[32m[K9[m[K[36m[K:[m[KAnd wrinkled lip and sneer [01;31m[Kof[m[K cold command
+[32m[K14[m[K[36m[K:[m[K"My name is Ozymandias, king [01;31m[Kof[m[K kings:
+[32m[K28[m[K[36m[K:[m[KIn the forests [01;31m[Kof[m[K the night; 
+[32m[K33[m[K[36m[K:[m[KBurnt the fire [01;31m[Kof[m[K thine eyes?
+[32m[K38[m[K[36m[K:[m[KCould twist the sinews [01;31m[Kof[m[K thy heart?
+[32m[K53[m[K[36m[K:[m[KIn the forests [01;31m[Kof[m[K the night: 
+[?2004h$ grep -iv "the"n "the"[C[C[C[C[C[C poems.txt
+[?2004l[32m[K1[m[K[36m[K:[m[KPercy Shelley
+[32m[K2[m[K[36m[K:[m[K
+[32m[K3[m[K[36m[K:[m[KOzymandias
+[32m[K4[m[K[36m[K:[m[K
+[32m[K5[m[K[36m[K:[m[KI met a traveller from an antique land
+[32m[K6[m[K[36m[K:[m[KWho said: Two vast and trunkless legs of stone
+[32m[K8[m[K[36m[K:[m[KHalf sunk, a shatter'd visage lies, whose frown
+[32m[K9[m[K[36m[K:[m[KAnd wrinkled lip and sneer of cold command
+[32m[K10[m[K[36m[K:[m[KTell that its sculptor well those passions read
+[32m[K14[m[K[36m[K:[m[K"My name is Ozymandias, king of kings:
+[32m[K15[m[K[36m[K:[m[KLook on my works, ye Mighty, and despair!"
+[32m[K17[m[K[36m[K:[m[KOf that colossal wreck, boundless and bare,
+[32m[K19[m[K[36m[K:[m[K
+[32m[K20[m[K[36m[K:[m[K~ ~ ~ 
+[32m[K21[m[K[36m[K:[m[K
+[32m[K22[m[K[36m[K:[m[KWilliam Blake
+[32m[K23[m[K[36m[K:[m[K
+[32m[K25[m[K[36m[K:[m[K
+[32m[K26[m[K[36m[K:[m[K
+[32m[K27[m[K[36m[K:[m[KTyger Tyger, burning bright, 
+[32m[K29[m[K[36m[K:[m[KWhat immortal hand or eye, 
+[32m[K30[m[K[36m[K:[m[KCould frame thy fearful symmetry?
+[32m[K31[m[K[36m[K:[m[K
+[32m[K32[m[K[36m[K:[m[KIn what distant deeps or skies. 
+[32m[K34[m[K[36m[K:[m[KOn what wings dare he aspire?
+[32m[K36[m[K[36m[K:[m[K
+[32m[K37[m[K[36m[K:[m[KAnd what shoulder, & what art,
+[32m[K39[m[K[36m[K:[m[KAnd when thy heart began to beat,
+[32m[K40[m[K[36m[K:[m[KWhat dread hand? & what dread feet?
+[32m[K41[m[K[36m[K:[m[K
+[32m[K43[m[K[36m[K:[m[KIn what furnace was thy brain?
+[32m[K45[m[K[36m[K:[m[KDare its deadly terrors clasp! 
+[32m[K46[m[K[36m[K:[m[K
+[32m[K49[m[K[36m[K:[m[KDid he smile his work to see?
+[32m[K51[m[K[36m[K:[m[K
+[32m[K52[m[K[36m[K:[m[KTyger Tyger burning bright, 
+[32m[K54[m[K[36m[K:[m[KWhat immortal hand or eye,
+[32m[K55[m[K[36m[K:[m[KDare frame thy fearful symmetry?
+[?2004h$ ls
+[?2004lcommands.md  [0m[34;42mdepartments[0m  dupes.txt  [01;31mlog.tar.gz[0m  poems.txt  sessionResult_Terminal1  simple_data.txt  test.sh
+[?2004h$ exit
+[?2004lexit
+
+Script done on 2025-11-16 08:52:53+00:00 [COMMAND_EXIT_CODE="0"]
